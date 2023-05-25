@@ -1,8 +1,7 @@
 ## Trilha JS Developer-Pokedex 🐱‍
 
-📜 Descrição
-- Este projeto foi desenvolvido como parte do curso **Formação JavaScript Developer** promovido pela **DIO**. 
-O projeto da Pokedex API consiste em criar uma aplicação web que consome uma API de Pokemons para exibir uma listagem com suas principais informações. A aplicação permite que os usuários carreguem mais Pokemons para serem exibidos na listagem e visualizem detalhes específicos de cada Pokemon em um modal, incluindo suas estatísticas básicas.
+📜 Este projeto foi desenvolvido como parte do curso **Formação JavaScript Developer** promovido pela **DIO**. 
+O projeto da Pokedex consiste em criar uma aplicação web que consome uma API de Pokemons para exibir uma listagem com suas principais informações. A aplicação permite que os usuários carreguem mais Pokemons para serem exibidos na listagem. Como desafio, utilizei todo o conhecimento adquirido para adicionar novas funcionalidades, como a inclusão de um botão para abrir um modal e visualizar detalhes específicos de cada Pokemon, incluindo suas estatísticas básicas.
 
 🚀 Tecnologias Utilizadas
 - JavaScript
