@@ -18,7 +18,7 @@ O projeto da Pokedex consiste em criar uma aplicação web que consome uma API d
 - Carregar mais Pokemons na listagem ao clicar no botão "Load More".
 - Exibir informações detalhadas de base stats para cada Pokemon em um modal ao clicar no botão "Load Details".
 
-**🔗 Link para o projeto:** [<a href="https://guilherme-dev15.github.io/trilha-js-developer-pokedex/" target="_blank">POKEDEX JAVASCRIPT</a>]
+**🔗 Link para o projeto:** [POKEDEX JAVASCRIPT](https://guilherme-dev15.github.io/trilha-js-developer-pokedex){:target="_blank"}
 
 ## 🎉 Resultados
 
